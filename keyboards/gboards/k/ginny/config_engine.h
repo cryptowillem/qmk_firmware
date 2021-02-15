@@ -37,5 +37,5 @@
         ENGINE_HOOK(KC_O, AO)       \
         ENGINE_HOOK(KC_P, AP)       \
         ENGINE_HOOK(KC_L, AL)       \
-        ENGINE_HOOK(KC_R, AR)       
+        ENGINE_HOOK(KC_R, AR)
 
